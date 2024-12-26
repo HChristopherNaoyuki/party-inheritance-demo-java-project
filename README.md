@@ -1,4 +1,4 @@
-# PartyInheritanceDemo
+# Party Inheritance Demo
 
 **PartyInheritanceDemo** is a Java project designed to demonstrate basic Object-Oriented Programming (OOP) principles, particularly **inheritance**. The project consists of two classes: `Party` (the base class) and `DinnerParty` (a subclass), showcasing how fields and methods are inherited and extended. This project follows the **Allman style** for code formatting and includes input handling using `try-catch` blocks.
 
